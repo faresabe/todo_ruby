@@ -19,6 +19,7 @@ gem "jbuilder"
 #The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com
 gem 'bootstrap', '~> 5.3', '>= 5.3.5'
 
+gem "cssbundling-rails"
 
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
